@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JS Program</title>
+</head>
+<body>
+
+<script>
+    // Paste your JavaScript code here
+    alert("Welcome to JavaScript!");
+</script>
+
+</body>
+</html>
